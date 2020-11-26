@@ -1,2 +1,4 @@
 # learn-linux
-learnings session with family
+
+
+Learning session with Ratna, Nalini and Rajani
